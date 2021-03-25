@@ -15,4 +15,9 @@
     <string name="add_button">+</string>
     <string name="reduce_button">-</string>
     <string name="multiply_button">*</string>
+    <string name="equal_button">=</string>
+    <string name="comma_button">,</string>
+    <string name="cancel_button">C</string>
+    <string name="mark_button">+/-</string>
+    <string name="percent_button">%</string>
 </resources>
